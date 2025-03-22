@@ -6,7 +6,7 @@ The SimpleSum Application is a simple, functional web app designed to perform ba
 
 ## Live Demo
 
-🔗 [View Live Demo](https://kdfarrell.github.io/Calculator/)
+🔗 [View Live Demo](https://kdfarrell.github.io/SimpleSum/)
 
 ## Technologies Used
 
@@ -26,7 +26,7 @@ The SimpleSum Application is a simple, functional web app designed to perform ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/kdfarrell/SimpleSum.git
    ```
 2. Navigate to the project directory:
    ```bash
